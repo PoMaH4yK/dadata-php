@@ -11,13 +11,13 @@ Thin PHP wrapper over Dadata API.
 ## Installation
 
 ```sh
-composer require hflabs/dadata
+composer require PoMaH4yK/dadata
 ```
 
 Requirements:
 
 -   PHP 5.6+
--   Guzzle 6
+-   Guzzle 6+
 
 ## Usage
 
